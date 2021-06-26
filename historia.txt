@@ -1,5 +1,9 @@
 Esta es la historia de  Christian Zamora
 Tiene 26 años y nació en Ecuador,
-ha viajado a países como: Brasil, COlombia, Perú, República Dominicana, México, Argentia, Estados Unidos, Venezuela y Uruguay
+Ha viajado a países como: Brasil, Colombia, Perú, República Dominicana, México, Argentia, Estados Unidos, Venezuela y Uruguay
 
-Hoy hablaremos de su historia
+Hoy hablaremos de su historia:
+
+Su primer viaje lo realizó cuando tenía 11 años con su familia a Venezuela (Isla Margarita)
+
+Hoy está estudiando programación
