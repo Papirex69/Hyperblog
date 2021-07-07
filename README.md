@@ -7,5 +7,10 @@ En este curso hemos visto de todo:
 * Flujo de trabajo en Github
 * Amor por las buenas practicas
 * Creado por papirex69
+<<<<<<< HEAD
+=======
+* Incluso crear paginas web con Github pages
+* Contenido para publico de +18
+>>>>>>> readme-mejorado
 
 **Este readme es un ejemplo practico para mi blogspot. BIenvenidos**
