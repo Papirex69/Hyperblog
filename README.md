@@ -8,4 +8,6 @@ En este curso hemos visto de todo:
 * Amor por las buenas practicas
 * Creado por papirex69
 * Incluso crear paginas web con Github pages
+* Contenido para publico de +18
+
 **Este readme es un ejemplo practico para mi blogspot. BIenvenidos**
